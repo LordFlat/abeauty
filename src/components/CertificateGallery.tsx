@@ -16,7 +16,7 @@ const grid: Cert[] = [
 const award: Cert = {
   src: '/images/about/award-2024.jpg',
   alt: 'Certificate of Achievement — Anastasia Danitoiu, SPMU Artist of the Year, UK National Top 10, 2024',
-  label: 'National Top 50 — 2024',
+  label: 'National Top 10 — 2024',
 };
 
 // Full ordered set used by the lightbox (grid first, award last).
@@ -94,7 +94,7 @@ export default function CertificateGallery() {
           <div className="text-center sm:text-left">
             <p className="eyebrow">The UK Hair &amp; Beauty Awards 2024</p>
             <h3 className="heading-md mt-3 !text-left !text-[24px] max-sm:!text-center">
-              national top 50 — spmu artist of the year
+              national top 10 — spmu artist of the year
             </h3>
             <p className="body-copy mt-4 !text-center sm:!text-left">
               Recognised as an official national winner at the UK Hair and Beauty Awards — a reflection of
