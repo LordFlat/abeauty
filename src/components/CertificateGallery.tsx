@@ -15,7 +15,7 @@ const grid: Cert[] = [
 
 const award: Cert = {
   src: '/images/about/award-2024.jpg',
-  alt: 'Certificate of Achievement — Anastasia Danitoiu, SPMU Artist of the Year, UK National Top 50, 2024',
+  alt: 'Certificate of Achievement — Anastasia Danitoiu, SPMU Artist of the Year, UK National Top 10, 2024',
   label: 'National Top 50 — 2024',
 };
 
