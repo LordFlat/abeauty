@@ -1,0 +1,35 @@
+{
+  "note": "Placeholder reviews — replace with real client reviews (Treatwell / Google) before launch marketing.",
+  "reviews": [
+    {
+      "text": "My powder brows healed beautifully — so natural that my hairdresser didn't believe they were tattooed. Anastasia talked me through every step.",
+      "author": "S. M.",
+      "treatment": "Powder Brows"
+    },
+    {
+      "text": "The carbon facial left my skin glowing for weeks. The clinic is spotless and Anastasia makes you feel completely at ease.",
+      "author": "L. K.",
+      "treatment": "Laser Carbon Facial"
+    },
+    {
+      "text": "I was nervous about lip blush but the colour match is perfect — just a better version of my own lips. Worth every penny.",
+      "author": "H. T.",
+      "treatment": "Lip Blush"
+    },
+    {
+      "text": "After a course of IPL my skin is the clearest it has been in years. Honest advice, no upselling, real results.",
+      "author": "R. B.",
+      "treatment": "IPL Skin Treatment"
+    },
+    {
+      "text": "Brow lamination and tint — quick, painless and my brows have never looked this good. Already booked my next visit.",
+      "author": "E. W.",
+      "treatment": "Brow Lamination"
+    },
+    {
+      "text": "The HIFU facelift genuinely turned back the clock. Subtle, gradual and completely natural-looking. I couldn't recommend AD Beauty more.",
+      "author": "J. P.",
+      "treatment": "HIFU Facelift"
+    }
+  ]
+}

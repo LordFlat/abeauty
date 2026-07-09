@@ -1,0 +1,417 @@
+{
+  "categories": [
+    {
+      "slug": "lip-blush",
+      "title": "Lip Blush",
+      "menuLabel": "Lip Blush",
+      "treatments": [
+        {
+          "slug": "lip-blush",
+          "name": "Lip Blush",
+          "subtitle": "Semi-Permanent Lip Enhancement",
+          "cover": "/images/treatments/lip-blush.jpg",
+          "gallery": "lips",
+          "intro": "Wake up with beautifully enhanced lips every day.",
+          "description": "Lip Blush is a semi-permanent cosmetic treatment that enhances your natural lip colour, improves lip definition, and creates the appearance of fuller, more youthful lips — without fillers. Perfect for anyone wanting soft, natural-looking lips with less need for daily lipstick.",
+          "benefits": [
+            "Enhances your natural lip colour",
+            "Defines the lip border",
+            "Creates a fuller-looking appearance",
+            "Corrects uneven tone and asymmetry",
+            "Camouflages pigmentation",
+            "Long-lasting results (typically 2–3 years)",
+            "Smudge-proof and waterproof"
+          ],
+          "note": "A top-up appointment is required 6–8 weeks after your initial treatment for all semi-permanent make-up procedures. This perfecting session allows us to assess the healed results, reinforce the pigment where needed, and ensure the best possible colour, shape, and longevity.",
+          "prices": [{ "name": "Lip Blush", "price": "£270" }]
+        }
+      ]
+    },
+    {
+      "slug": "brows",
+      "title": "Brows",
+      "menuLabel": "Brows",
+      "treatments": [
+        {
+          "slug": "powder-brows",
+          "name": "Powder Brows",
+          "subtitle": "Semi-Permanent Makeup",
+          "cover": "/images/treatments/makeup.jpg",
+          "gallery": "brows",
+          "intro": "Soft, shaded brows with long-lasting colour and definition.",
+          "description": "Powder Brows create a soft, beautifully shaded makeup effect that enhances your natural brows with long-lasting colour and definition. This treatment is suitable for all skin types and can be customised from a subtle, natural finish to a more defined, makeup look.",
+          "benefits": [
+            "Soft, natural powdered effect",
+            "Defines and enhances your brow shape",
+            "Fills sparse or uneven brows",
+            "Long-lasting results (typically 1–3 years)",
+            "Suitable for all skin types",
+            "Smudge-proof and waterproof",
+            "Saves time on your daily makeup routine"
+          ],
+          "note": "A top-up appointment is required 6–8 weeks after your initial treatment for all semi-permanent make-up procedures. This perfecting session ensures the best colour retention, shape, and overall results.",
+          "prices": [{ "name": "Powder Brows", "price": "£230" }]
+        },
+        {
+          "slug": "combo-brows",
+          "name": "Combo Brows",
+          "subtitle": "Semi-Permanent Makeup",
+          "cover": "/images/treatments/makeup.jpg",
+          "gallery": "brows",
+          "intro": "Hair strokes and soft shading for defined, natural brows.",
+          "description": "Combo Brows combine delicate hair strokes at the front of the brows with soft powder shading through the body and tail, creating beautifully defined yet natural-looking brows. This technique offers the perfect balance between realism and a polished makeup finish.",
+          "benefits": [
+            "Combines natural hair strokes with soft shading",
+            "Creates fuller, more defined brows",
+            "Ideal for sparse or uneven brows",
+            "Customised to suit your face and style",
+            "Long-lasting results (typically 1–3 years)",
+            "Smudge-proof and waterproof",
+            "Reduces the need for daily brow makeup"
+          ],
+          "note": "A top-up appointment is required 6–8 weeks after your initial treatment for all semi-permanent make-up procedures. This perfecting session ensures the best colour retention, shape, and longevity.",
+          "prices": [{ "name": "Combo Brows", "price": "£250" }]
+        },
+        {
+          "slug": "stroke-brows",
+          "name": "Stroke Brows",
+          "subtitle": "Semi-Permanent Makeup (nano)",
+          "cover": "/images/treatments/makeup.jpg",
+          "gallery": "brows",
+          "intro": "Fine, realistic hair-like strokes that mimic natural brow hairs.",
+          "description": "Stroke Brows use fine, realistic hair-like strokes to recreate the appearance of natural eyebrow hairs. This technique is ideal for enhancing shape, filling sparse areas, and achieving soft, natural-looking brows.",
+          "benefits": [
+            "Creates realistic hair-like strokes",
+            "Enhances your natural brow shape",
+            "Fills sparse or patchy areas",
+            "Soft, natural-looking results",
+            "Customised to complement your facial features",
+            "Long-lasting results (typically 1–2 years)",
+            "Reduces the need for daily brow makeup"
+          ],
+          "note": "A top-up appointment is required 6–8 weeks after your initial treatment for all semi-permanent make-up procedures. This perfecting session ensures the best colour retention, shape, and longevity.",
+          "prices": [{ "name": "Stroke Brows (nano)", "price": "£250" }]
+        }
+      ]
+    },
+    {
+      "slug": "eyeliner",
+      "title": "Eyeliner",
+      "menuLabel": "Eyeliner",
+      "treatments": [
+        {
+          "slug": "lash-enhancement-eyeliner",
+          "name": "Lash Enhancement Eyeliner",
+          "subtitle": "Semi-Permanent Makeup",
+          "cover": "/images/treatments/eyeliner.jpg",
+          "gallery": "lashes",
+          "intro": "A subtle, fuller-looking lash line — without the look of eyeliner.",
+          "description": "Lash Enhancement Eyeliner is a subtle semi-permanent treatment that places pigment between the lashes to create the illusion of a fuller, darker lash line. It enhances your eyes without the look of traditional eyeliner, giving a naturally defined appearance.",
+          "benefits": [
+            "Creates the appearance of thicker, fuller lashes",
+            "Enhances the natural shape of your eyes",
+            "Soft, subtle, and natural-looking finish",
+            "Smudge-proof and waterproof",
+            "Perfect for everyday wear",
+            "Saves time on your daily makeup routine",
+            "Long-lasting results (typically 1–3 years)"
+          ],
+          "prices": [{ "name": "Lash Line Enhancement", "price": "£120" }]
+        },
+        {
+          "slug": "classic-eyeliner",
+          "name": "Classic Eyeliner",
+          "subtitle": "Semi-Permanent Makeup",
+          "cover": "/images/treatments/eyeliner.jpg",
+          "gallery": "lashes",
+          "intro": "Perfectly defined eyeliner every day, customised to your eyes.",
+          "description": "Classic Eyeliner is a semi-permanent makeup treatment that creates a beautifully defined eyeliner look, enhancing the shape and definition of your eyes. The thickness and style can be customised, from a fine, elegant line to a more defined eyeliner effect.",
+          "benefits": [
+            "Enhances the natural shape of the eyes",
+            "Creates perfectly defined eyeliner every day",
+            "Customisable thickness and style",
+            "Smudge-proof and waterproof",
+            "Ideal for active lifestyles and sensitive eyes",
+            "Saves time on your daily makeup routine",
+            "Long-lasting results (typically 2–3 years)"
+          ],
+          "prices": [{ "name": "Classic Eyeliner", "price": "£150" }]
+        },
+        {
+          "slug": "butterfly-eyeliner",
+          "name": "Butterfly Eyeliner",
+          "subtitle": "Semi-Permanent Makeup",
+          "cover": "/images/treatments/eyeliner.jpg",
+          "gallery": "lashes",
+          "intro": "A lifted, winged effect that elongates and glamorises the eyes.",
+          "description": "Butterfly Eyeliner is a beautifully lifted eyeliner style designed to enhance and elongate the eyes with a soft, elegant wing. This semi-permanent treatment creates a glamorous yet timeless look, customised to complement your eye shape and facial features.",
+          "benefits": [
+            "Creates a lifted, winged eyeliner effect",
+            "Enhances and elongates the eyes",
+            "Defines the lash line for a fuller appearance",
+            "Customised to suit your eye shape",
+            "Smudge-proof and waterproof",
+            "Saves time on your daily makeup routine",
+            "Long-lasting results (typically 2–3 years)"
+          ],
+          "note": "A top-up appointment is required 6–8 weeks after your initial treatment for all semi-permanent make-up procedures. This perfecting session ensures the best colour retention, shape, and longevity.",
+          "prices": [{ "name": "Ombre / Butterfly Eyeliner", "price": "£170" }]
+        }
+      ]
+    },
+    {
+      "slug": "facial",
+      "title": "Facial",
+      "menuLabel": "Facial",
+      "treatments": [
+        {
+          "slug": "bubble-facial",
+          "name": "Bubble Facial",
+          "subtitle": "Deep-Cleansing & Oxygenating",
+          "cover": "/images/treatments/facial.jpg",
+          "gallery": "facials",
+          "intro": "A fresh, healthy glow and beautifully cleansed skin.",
+          "description": "The Bubble Facial is a deep-cleansing, oxygenating treatment that gently removes impurities while hydrating and refreshing the skin. The rich micro-bubbles help cleanse pores, improve circulation, and leave your complexion looking brighter, smoother, and more radiant.",
+          "benefits": [
+            "Deeply cleanses the skin and pores",
+            "Removes excess oil and impurities",
+            "Gently exfoliates dead skin cells",
+            "Boosts skin hydration",
+            "Brightens dull, tired-looking skin",
+            "Leaves the skin soft, smooth, and refreshed",
+            "Suitable for most skin types",
+            "No downtime"
+          ],
+          "prices": [{ "name": "CO2 Bubble Facial", "price": "£60" }]
+        },
+        {
+          "slug": "carbon-facial",
+          "name": "The Carbon Facial",
+          "subtitle": "Advanced Laser Treatment",
+          "cover": "/images/treatments/facial.jpg",
+          "gallery": "facials",
+          "intro": "Deep cleansing, brightening and collagen stimulation in one.",
+          "description": "The Carbon Facial is an advanced laser treatment that deeply cleanses, exfoliates, and rejuvenates the skin. A layer of medical-grade carbon is applied to the skin before being targeted with a laser, removing impurities while stimulating collagen production for a smoother, brighter complexion. Suitable for oily, combination, acne-prone, and dull skin.",
+          "benefits": [
+            "Deeply cleanses pores",
+            "Reduces excess oil and congestion",
+            "Improves acne and acne marks",
+            "Minimises the appearance of enlarged pores",
+            "Brightens dull skin and evens skin tone",
+            "Stimulates collagen production",
+            "Softens fine lines and improves skin texture",
+            "Minimal downtime"
+          ],
+          "prices": [
+            { "name": "Laser Carbon Facial", "price": "£69" },
+            { "name": "Both Facials (Carbon + Bubble)", "price": "£120" }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "hifu",
+      "title": "HIFU",
+      "menuLabel": "HIFU",
+      "hidden": true,
+      "treatments": [
+        {
+          "slug": "hifu",
+          "name": "HIFU",
+          "subtitle": "High-Intensity Focused Ultrasound",
+          "cover": "/images/treatments/hifu.jpg",
+          "gallery": null,
+          "intro": "Lift and tighten — no needles, no surgery, no downtime.",
+          "description": "HIFU uses High-Intensity Focused Ultrasound to stimulate collagen production deep within the skin, lifting, tightening and sculpting the face and body. Results build gradually over 2–3 months and continue to improve, with no needles and no downtime.",
+          "benefits": [
+            "Non-surgical lifting and tightening",
+            "Stimulates deep collagen production",
+            "Sculpts and contours face and body",
+            "Natural, gradual results",
+            "No needles and no downtime"
+          ],
+          "prices": [
+            { "name": "HIFU Facelift", "price": "£499" },
+            { "name": "Intimate HIFU", "price": "£399" },
+            { "name": "HIFU Body Sculpting", "price": "From £99" }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "brows-waxing",
+      "title": "Brows & Waxing",
+      "menuLabel": "Brows & Waxing",
+      "treatments": [
+        {
+          "slug": "brows-waxing",
+          "name": "Brows & Waxing",
+          "subtitle": "Shaping, Tinting, Lamination & Lashes",
+          "cover": "/images/treatments/brows-waxing.jpg",
+          "gallery": "brows",
+          "intro": "Quick treatments with an instant payoff.",
+          "description": "Lamination, HD brows, lash lifts and precision waxing — quick treatments with an instant result. Brows shaped and tinted to suit your face, lashes lifted without extensions, skin left smooth.",
+          "benefits": [
+            "Brows shaped and tinted to frame your face",
+            "Lamination for fuller, brushed-up brows",
+            "Lash lift for lifted, curled lashes without extensions",
+            "Precision waxing for smooth skin",
+            "Fast treatments, instant results"
+          ],
+          "prices": [
+            { "name": "Brow Lamination", "price": "£40" },
+            { "name": "HD Brows", "price": "£30" },
+            { "name": "Lash Lift", "price": "£40" },
+            { "name": "Lash Tint", "price": "£10" },
+            { "name": "Brow Wax", "price": "£15" },
+            { "name": "Upper Lip Wax", "price": "£10" }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "ipl-treatments",
+      "title": "IPL Treatments",
+      "menuLabel": "IPL Treatments",
+      "hidden": true,
+      "treatments": [
+        {
+          "slug": "ipl-treatments",
+          "name": "IPL Treatments",
+          "subtitle": "Intense Pulsed Light",
+          "cover": "/images/treatments/ipl.jpg",
+          "gallery": null,
+          "intro": "Light that works — lasting hair reduction and skin rejuvenation.",
+          "description": "Intense Pulsed Light delivers lasting results — permanent hair reduction for face and body, plus skin rejuvenation targeting wrinkles, acne, pigmentation and vascular concerns. Safe, effective and tailored to your skin after a patch test. See the full price list below for the complete hair-removal menu.",
+          "benefits": [
+            "Permanent hair reduction for face and body",
+            "Skin rejuvenation and wrinkle reduction",
+            "Improves acne, pigmentation and vascular concerns",
+            "Tailored to your skin after a patch test",
+            "2 treatments get an extra 10% off"
+          ],
+          "prices": [
+            { "name": "Face Rejuvenation Treatment", "price": "£100" },
+            { "name": "Wrinkle Rejuvenation", "price": "£100" },
+            { "name": "Acne Treatments", "price": "From £45" },
+            { "name": "Full Leg (single)", "price": "£200" }
+          ]
+        }
+      ]
+    }
+  ],
+  "priceList": [
+    {
+      "title": "Semi Permanent Makeup",
+      "items": [
+        { "name": "Powder Brows", "price": "£230" },
+        { "name": "Combo Brows", "price": "£250" },
+        { "name": "Stroke Brows (nano)", "price": "£250" },
+        { "name": "Lip Blush", "price": "£270" },
+        { "name": "2 Treatments", "price": "£450" },
+        { "name": "Touch Up (6–8 weeks)", "price": "£50" },
+        { "name": "Colour Boost (up to 6 months)", "price": "£100" },
+        { "name": "Colour Boost (6–12 months)", "price": "£150" },
+        { "name": "Colour Boost (12–18 months)", "price": "£180" },
+        { "name": "Colour Boost (18–24 months)", "price": "£200" }
+      ]
+    },
+    {
+      "title": "Eyeliner",
+      "note": "For customers only — previously semi-permanent make-up treatment done by us.",
+      "items": [
+        { "name": "Lash Line Enhancement", "price": "£120" },
+        { "name": "Classic Eyeliner", "price": "£150" },
+        { "name": "Ombre Eyeliner", "price": "£170" },
+        { "name": "Top Up (within 4 weeks)", "price": "From £30" }
+      ]
+    },
+    {
+      "title": "Facials",
+      "items": [
+        { "name": "Laser Carbon Facial", "price": "£69" },
+        { "name": "CO2 Bubble Facial", "price": "£60" },
+        { "name": "Both Facials", "price": "£120" }
+      ]
+    },
+    {
+      "title": "HIFU (High-Intensity Focused Ultrasound)",
+      "hidden": true,
+      "items": [
+        { "name": "HIFU Facelift", "price": "£499" },
+        { "name": "Intimate HIFU", "price": "£399" },
+        { "name": "HIFU Body Sculpting", "price": "From £99" }
+      ]
+    },
+    {
+      "title": "Brows & Waxing",
+      "items": [
+        { "name": "Brow Lamination", "price": "£40" },
+        { "name": "HD Brows", "price": "£30" },
+        { "name": "Brow Wax", "price": "£15" },
+        { "name": "Lash Lift", "price": "£40" },
+        { "name": "Lash Tint", "price": "£10" },
+        { "name": "Full Face and Brow Wax with Brow Tint", "price": "£40" },
+        { "name": "Wax and Brow Shape and Tint", "price": "£25" },
+        { "name": "Upper Lip Wax", "price": "£10" }
+      ]
+    },
+    {
+      "title": "IPL — Skin Treatments",
+      "hidden": true,
+      "note": "2 treatments get an extra 10% off.",
+      "items": [
+        { "name": "Face Rejuvenation Treatment", "price": "£100" },
+        { "name": "Wrinkle Rejuvenation", "price": "£100" },
+        { "name": "Acne Treatments", "price": "From £45" },
+        { "name": "Vascular Treatments", "price": "From £45" },
+        { "name": "Pigmentation Treatments", "price": "From £45" }
+      ]
+    },
+    {
+      "title": "IPL / Laser Hair Removal — Face",
+      "hidden": true,
+      "note": "6-pack saves 20%.",
+      "columns": ["Single", "6 Pack"],
+      "items": [
+        { "name": "Between Eyebrows", "price": "£40", "pack6": "£192" },
+        { "name": "Chin", "price": "£40", "pack6": "£192" },
+        { "name": "Earlobes", "price": "£40", "pack6": "£192" },
+        { "name": "Jaw Line", "price": "£40", "pack6": "£192" },
+        { "name": "Nose", "price": "£40", "pack6": "£192" },
+        { "name": "Upper Lip", "price": "£40", "pack6": "£192" },
+        { "name": "Full Face", "price": "£100", "pack6": "£480" },
+        { "name": "Full Face and Front of Neck", "price": "£100", "pack6": "£480" }
+      ]
+    },
+    {
+      "title": "IPL / Laser Hair Removal — Body",
+      "hidden": true,
+      "columns": ["Single", "6 Pack"],
+      "items": [
+        { "name": "Nipples / Fingers / Navel", "price": "£40", "pack6": "£192" },
+        { "name": "Hands / Feet", "price": "£40", "pack6": "£190" },
+        { "name": "Bikini Line / Shoulder", "price": "£65", "pack6": "£312" },
+        { "name": "Brazilian Bikini", "price": "£85", "pack6": "£408" },
+        { "name": "Hollywood Bikini", "price": "£100", "pack6": "£480" },
+        { "name": "Full Back", "price": "£150", "pack6": "£720" },
+        { "name": "Full Chest", "price": "£75", "pack6": "£360" },
+        { "name": "Under Arms", "price": "£40", "pack6": "£192" },
+        { "name": "Buttocks", "price": "£80", "pack6": "£384" }
+      ]
+    },
+    {
+      "title": "IPL / Laser Hair Removal — Legs & Arms",
+      "hidden": true,
+      "columns": ["Single", "6 Pack"],
+      "items": [
+        { "name": "Half Leg", "price": "£130", "pack6": "£624" },
+        { "name": "Full Leg", "price": "£200", "pack6": "£960" },
+        { "name": "Thighs", "price": "£130", "pack6": "£624" },
+        { "name": "Half Arm", "price": "£100", "pack6": "£480" },
+        { "name": "Full Arm", "price": "£130", "pack6": "£624" },
+        { "name": "Laser Tattoo Removal", "price": "From £35" }
+      ]
+    }
+  ]
+}
