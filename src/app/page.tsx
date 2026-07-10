@@ -9,6 +9,11 @@ import TestimonialCarousel from '@/components/TestimonialCarousel';
 
 const followPhotos = Array.from({ length: 6 }, (_, i) => `/images/follow/${String(i + 1).padStart(2, '0')}.jpg`);
 
+// Keep the home carousel punchy — long reviews stretch the block and read poorly here.
+// The full set (including long ones) still shows on the /reviews page.
+const CAROUSEL_MAX_LENGTH = 260;
+const carouselReviews = reviews.filter((r) => r.text.length <= CAROUSEL_MAX_LENGTH);
+
 export default function HomePage() {
   return (
     <>
@@ -142,7 +147,7 @@ export default function HomePage() {
 
         {/* 5. Testimonials — dark fading carousel with arrows. */}
         <section className="relative z-[13]">
-          <TestimonialCarousel reviews={reviews} />
+          <TestimonialCarousel reviews={carouselReviews} />
 
           {/* 6. Gallery / Instagram strip */}
           <section className="bg-cream py-20">
