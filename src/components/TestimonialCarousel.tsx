@@ -47,7 +47,7 @@ export default function TestimonialCarousel({ reviews }: { reviews: Review[] }) 
       <div className={`fade-swap container-x px-16 text-center sm:px-24 ${visible ? 'opacity-100' : 'opacity-0'}`}>
         <p className="mx-auto max-w-2xl font-serif text-xl lowercase leading-relaxed sm:text-2xl">“{review.text}”</p>
         <p className="mt-8 font-serif text-[13px] uppercase tracking-[0.12em] text-gold">
-          {review.author} · {review.treatment}
+          {review.author}
         </p>
       </div>
 

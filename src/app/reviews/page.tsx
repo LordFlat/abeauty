@@ -21,7 +21,7 @@ export default function ReviewsPage() {
             <figure className="break-inside-avoid bg-ivory p-8">
               <blockquote className="font-serif text-[17px] lowercase leading-relaxed text-ink">“{r.text}”</blockquote>
               <figcaption className="mt-6 font-serif text-[12px] uppercase tracking-[0.12em] text-gold">
-                {r.author} <span className="mx-2 text-gold">·</span> {r.treatment}
+                {r.author}
               </figcaption>
             </figure>
           </Reveal>

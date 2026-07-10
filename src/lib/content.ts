@@ -37,7 +37,7 @@ export function getTreatment(slug: string): { treatment: Treatment; category: Ca
   return allTreatments().find((t) => t.treatment.slug === slug);
 }
 
-export type Review = { text: string; author: string; treatment: string };
+export type Review = { text: string; author: string; treatment?: string };
 export const reviews: Review[] = reviewsData.reviews;
 
 export type GalleryImage = { src: string; category: string; alt: string };
