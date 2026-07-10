@@ -88,7 +88,7 @@ export default function HomePage() {
         <section className="sticky top-0 z-[11] bg-cream">
           <div className="grid min-h-[100svh] lg:grid-cols-2">
             <div className="relative aspect-[4/3] lg:aspect-auto">
-              <Image src="/images/main-first.jpg" alt="Semi permanent makeup at AD Beauty" fill sizes="(min-width: 1024px) 50vw, 100vw" className="object-cover" />
+              <Image src="/images/main-first.jpg" alt="Semi permanent makeup at AD Beauty" fill sizes="(min-width: 1024px) 50vw, 100vw" className="object-cover object-top" />
             </div>
             <div className="flex min-w-0 flex-col justify-center gap-6 px-6 py-16 sm:px-14 lg:px-16">
               <Reveal>
@@ -140,7 +140,7 @@ export default function HomePage() {
               </Reveal>
             </div>
             <div className="relative order-1 aspect-[4/3] lg:order-2 lg:aspect-auto">
-              <Image src="/images/main-second.jpg" alt="Advanced aesthetics at AD Beauty" fill sizes="(min-width: 1024px) 50vw, 100vw" className="object-cover" />
+              <Image src="/images/main-second.jpg" alt="Advanced aesthetics at AD Beauty" fill sizes="(min-width: 1024px) 50vw, 100vw" className="object-cover object-top" />
             </div>
           </div>
         </section>
